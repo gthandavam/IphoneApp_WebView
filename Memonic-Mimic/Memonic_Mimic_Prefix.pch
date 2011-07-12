@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Memonic-Mimic' target in the 'Memonic-Mimic' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
