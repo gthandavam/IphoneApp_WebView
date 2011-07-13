@@ -16,7 +16,7 @@
 {
 	if (!model) {
 		model = [[FacebookModel alloc] init];
-		
+		/*Does github get this */
 	}
 	
 	return model;

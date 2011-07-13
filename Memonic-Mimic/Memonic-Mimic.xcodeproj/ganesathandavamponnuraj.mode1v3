@@ -326,7 +326,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A877419613B994FD003A3583</string>
+										<string>A8007A9713CD4E7300ECB578</string>
 										<key>history</key>
 										<array>
 											<string>A865CF9813B0B4C700C59223</string>
@@ -335,7 +335,7 @@
 											<string>A877414613B48C2F003A3583</string>
 											<string>A877416A13B48DA1003A3583</string>
 											<string>A877419413B994FD003A3583</string>
-											<string>A877419513B994FD003A3583</string>
+											<string>A877419613B994FD003A3583</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -393,9 +393,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>A877414913B48C2F003A3583</string>
+				<string>A8007A9813CD4E7300ECB578</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>A877414A13B48C2F003A3583</string>
+				<string>A8007A9913CD4E7300ECB578</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -533,13 +533,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>A877417713B491ED003A3583</string>
-		<string>A877415413B48C2F003A3583</string>
-		<string>A877415513B48C2F003A3583</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>A865CF1B13AF9E1600C59223</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Memonic-Mimic.xcodeproj</string>
+		<string>/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Memonic-Mimic.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>37 55 650 723 0 0 1280 778 </string>
@@ -563,7 +558,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Memonic_MimicViewController.m</string>
+								<string></string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -580,8 +575,6 @@
 							<string>357pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -621,7 +614,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>A865CF1B13AF9E1600C59223</string>
-				<string>A877414B13B48C2F003A3583</string>
+				<string>A8007A9A13CD4E7300ECB578</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
