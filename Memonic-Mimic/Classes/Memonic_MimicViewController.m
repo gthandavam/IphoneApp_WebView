@@ -29,19 +29,6 @@
 	NSURL * url = [NSURL URLWithString: @"http://www.facebook.com"];
 	NSURLRequest * req = [NSURLRequest requestWithURL: url];
 	[gtWebView loadRequest: req];
-	UIView * alertView;
-	if ( [[url absoluteURL] isEqual:[gtWebView request]]) {
-		alertView = [ UIAlertView initWithTitle: @"works" message: @"does it show" ];
-		[gtWebView addSubview:alertView];
-		[alertView setValue:@"abc" forKey:"title"];
-		
-	} else {
-		printf("am here");
-	}
-
-	
-	
-	
 	
 	
 	/*NSString * action = [[sender titleLabel] text];

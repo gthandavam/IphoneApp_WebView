@@ -1,19 +1,19 @@
 TMemonic-Mimic
 v7
 r0
-t330601583.914307
+t332224007.100592
 cCheck dependencies
-cProcessInfoPlistFile /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Info.plist Memonic_Mimic-Info.plist
-cCompileXIB /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/MainWindow.xib
-cCompileXIB /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Memonic_MimicViewController.xib
-cProcessPCH /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-bvgddfcfmitviyesfibgopdyqdbe/Memonic_Mimic_Prefix.pch.gch Memonic_Mimic_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/main.o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicAppDelegate.o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicViewController.o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/FacebookModel.o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/FacebookModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic normal i386
-cGenerateDSYMFile /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app.dSYM /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic
-cTouch /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app
+cProcessInfoPlistFile /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Info.plist Memonic_Mimic-Info.plist
+cCompileXIB /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/MainWindow.xib
+cCompileXIB /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Memonic_MimicViewController.xib
+cProcessPCH /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-dsbetfvoyonhiqgagskmwnvmslow/Memonic_Mimic_Prefix.pch.gch Memonic_Mimic_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/main.o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicAppDelegate.o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicViewController.o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/FacebookModel.o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/FacebookModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic normal i386
+cGenerateDSYMFile /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app.dSYM /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic
+cTouch /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
 c000000004B8F0D9500000000000000EE
@@ -155,8 +155,122 @@ t1308583546
 s366
 i<UIKit/UIKit.h>
 
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/FacebookModel.h
+c000000004E007D6800000000000000F6
+t1308654952
+s246
+i<Foundation/Foundation.h>
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/FacebookModel.m
+c000000004E007E2700000000000001DA
+t1308655143
+s474
+i"FacebookModel.h"
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicAppDelegate.h
+c000000004DFF667A0000000000000202
+t1308583546
+s514
+i<UIKit/UIKit.h>
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicAppDelegate.m
+c000000004E02F16D0000000000000286
+t1308815725
+s646
+i"Memonic_MimicAppDelegate.h"
+i"Memonic_MimicViewController.h"
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicViewController.h
+c000000004E02EB6A000000000000018C
+t1308814186
+s396
+i<UIKit/UIKit.h>
+i"FacebookModel.h"
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicViewController.m
+c000000004E1D1E730000000000000398
+t1310531187
+s920
+i"Memonic_MimicViewController.h"
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/MainWindow.xib
+c000000004E02ED380000000000004EA0
+t1308814648
+s20128
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Memonic_MimicViewController.xib
+c000000004E02F91E0000000000006219
+t1308817694
+s25113
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Memonic_Mimic_Prefix.pch
+c000000004DFF667A00000000000000C3
+t1308583546
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app
+t1310531207
+s238
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app.dSYM
+t1310531207
+s102
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Info.plist
+t1308649367
+s588
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/MainWindow.nib
+t1308814653
+s1507
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic
+t1310531206
+s19880
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic_MimicViewController.nib
+t1308817733
+s3585
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/PkgInfo
+t1308649367
+s8
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/FacebookModel.o
+t1310529370
+s5036
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic-Mimic.LinkFileList
+c000000004E1D175800000000000002E0
+t1310529368
+s736
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicAppDelegate.o
+t1310529370
+s38560
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicViewController.o
+t1310531206
+s30336
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/main.o
+t1310529369
+s6032
+
+N/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/main.m
+c000000004DFF667A000000000000016E
+t1308583546
+s366
+i<UIKit/UIKit.h>
+
 N/var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-bvgddfcfmitviyesfibgopdyqdbe/Memonic_Mimic_Prefix.pch.gch
 t1308649369
+s13034960
+
+N/var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-dsbetfvoyonhiqgagskmwnvmslow/Memonic_Mimic_Prefix.pch.gch
+t1310529369
 s13034960
 
 NMemonic_Mimic-Info.plist
@@ -166,7 +280,7 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies330601583#330601583#0(0"0(0#1#0"4300885448#0"0#
+lSLF07#2@18"Check dependencies332224005#332224005#0(0"0(0#1#0"28992373579448432#0"0#
 
 CCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/FacebookModel.o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/FacebookModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s330348743.170229
@@ -181,6 +295,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@96"Compile /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/FacebookModel.m330348743#330348743#0(0"0(0#0#88"/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/FacebookModel.m4300885448#2291"    cd /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-generated-files.hmap -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-own-target-headers.hmap -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-all-target-headers.hmap -iquote /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-project-headers.hmap -F/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/include -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources/i386 -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources -include /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-bvgddfcfmitviyesfibgopdyqdbe/Memonic_Mimic_Prefix.pch -c /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/FacebookModel.m -o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/FacebookModel.o0#
 
+CCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/FacebookModel.o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/FacebookModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332222170.029973
+e332222170.087522
+r1
+xCompileC
+xbuild/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/FacebookModel.o
+x/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/FacebookModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/FacebookModel.m332222170#332222170#0(0"0(0#0#99"/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/FacebookModel.m4300885448#2412"    cd /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-generated-files.hmap -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-own-target-headers.hmap -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-all-target-headers.hmap -iquote /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-project-headers.hmap -F/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/include -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources/i386 -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources -include /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-dsbetfvoyonhiqgagskmwnvmslow/Memonic_Mimic_Prefix.pch -c /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/FacebookModel.m -o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/FacebookModel.o0#
+
 CCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicAppDelegate.o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s330509092.206016
 e330509092.340546
@@ -193,6 +320,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@107"Compile /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicAppDelegate.m330509092#330509092#0(0"0(0#0#99"/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicAppDelegate.m4300885448#2313"    cd /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-generated-files.hmap -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-own-target-headers.hmap -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-all-target-headers.hmap -iquote /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-project-headers.hmap -F/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/include -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources/i386 -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources -include /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-bvgddfcfmitviyesfibgopdyqdbe/Memonic_Mimic_Prefix.pch -c /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicAppDelegate.m -o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicAppDelegate.o0#
+
+CCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicAppDelegate.o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332222169.849739
+e332222170.029864
+r1
+xCompileC
+xbuild/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicAppDelegate.o
+x/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicAppDelegate.m332222169#332222170#0(0"0(0#0#110"/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicAppDelegate.m4300885448#2434"    cd /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-generated-files.hmap -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-own-target-headers.hmap -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-all-target-headers.hmap -iquote /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-project-headers.hmap -F/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/include -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources/i386 -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources -include /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-dsbetfvoyonhiqgagskmwnvmslow/Memonic_Mimic_Prefix.pch -c /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicAppDelegate.m -o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicAppDelegate.o0#
 
 CCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicViewController.o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s330601583.801803
@@ -213,6 +353,19 @@ o/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memoni
 o/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m:36: warning: passing argument 2 of 'setValue:forKey:' from incompatible pointer type
 lSLF07#2@110"Compile /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m330601583#330601583#0(992"/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m: In function '-[Memonic_MimicViewController webViewActionPressed:]':/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m:34: warning: 'UIAlertView' may not respond to '+initWithTitle:message:'/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m:34: warning: (Messages without a matching method signature/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m:34: warning: will be assumed to return 'id' and accept/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m:34: warning: '...' as arguments.)/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m:36: warning: passing argument 2 of 'setValue:forKey:' from incompatible pointer type3(22@58"'UIAlertView' may not respond to '+initWithTitle:message:'330601583#172#175#0(6@102"/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m330601582#34#0#34#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)330601583#347#162#0(6@102"/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m330601582#34#0#34#0#0"0(22@71"Passing argument 2 of 'setValue:forKey:' from incompatible pointer type330601583#804#188#0(6@102"/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m330601582#36#0#36#0#56"passing argument * of '*' from incompatible pointer type0(0#0#102"/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m4300885448#2319"    cd /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-generated-files.hmap -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-own-target-headers.hmap -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-all-target-headers.hmap -iquote /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-project-headers.hmap -F/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/include -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources/i386 -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources -include /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-bvgddfcfmitviyesfibgopdyqdbe/Memonic_Mimic_Prefix.pch -c /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Classes/Memonic_MimicViewController.m -o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicViewController.o0#
 
+CCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicViewController.o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332224005.156885
+e332224006.877458
+r1
+xCompileC
+xbuild/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicViewController.o
+x/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicViewController.m332224005#332224006#0(0"0(0#0#113"/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicViewController.m4300885448#2440"    cd /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-generated-files.hmap -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-own-target-headers.hmap -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-all-target-headers.hmap -iquote /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-project-headers.hmap -F/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/include -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources/i386 -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources -include /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-dsbetfvoyonhiqgagskmwnvmslow/Memonic_Mimic_Prefix.pch -c /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Classes/Memonic_MimicViewController.m -o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic_MimicViewController.o0#
+
 CCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/main.o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s330342169.410486
 e330342169.804856
@@ -225,6 +378,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@79"Compile /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/main.m330342169#330342169#0(0"0(0#0#71"/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/main.m4300885448#2265"    cd /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-generated-files.hmap -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-own-target-headers.hmap -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-all-target-headers.hmap -iquote /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-project-headers.hmap -F/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/include -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources/i386 -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources -include /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-bvgddfcfmitviyesfibgopdyqdbe/Memonic_Mimic_Prefix.pch -c /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/main.m -o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/main.o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332222169.848341
+e332222170.003535
+r1
+xCompileC
+xbuild/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/main.o
+x/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/main.m332222169#332222170#0(0"0(0#0#82"/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/main.m4300885448#2386"    cd /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-generated-files.hmap -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-own-target-headers.hmap -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-all-target-headers.hmap -iquote /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-project-headers.hmap -F/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/include -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources/i386 -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources -include /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-dsbetfvoyonhiqgagskmwnvmslow/Memonic_Mimic_Prefix.pch -c /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/main.m -o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/main.o0#
 
 CCompileXIB /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/MainWindow.xib
 s330507453.231218
@@ -242,6 +408,12 @@ xCompileXIB
 x/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Memonic_MimicViewController.xib
 lSLF07#2@42"CompileXIB Memonic_MimicViewController.xib330510533#330510533#0(0"0(0#0#96"/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Memonic_MimicViewController.xib4300885448#600"    cd /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic_MimicViewController.nib /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Memonic_MimicViewController.xib0#
 
+CCompileXIB /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/MainWindow.xib
+r0
+
+CCompileXIB /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Memonic_MimicViewController.xib
+r0
+
 CGenerateDSYMFile /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app.dSYM /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic
 s330601583.873431
 e330601583.911537
@@ -250,6 +422,15 @@ xGenerateDSYMFile
 x/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app.dSYM
 x/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic
 lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/Memonic-Mimic.app.dSYM build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic330601583#330601583#0(0"0(0#0#124"/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic4300885448#479"    cd /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic -o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app.dSYM0#
+
+CGenerateDSYMFile /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app.dSYM /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic
+s332224007.004161
+e332224007.097690
+r1
+xGenerateDSYMFile
+x/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app.dSYM
+x/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/Memonic-Mimic.app.dSYM build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic332224007#332224007#0(0"0(0#0#135"/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic4300885448#512"    cd /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic -o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app.dSYM0#
 
 CLd /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic normal i386
 s330601583.854850
@@ -261,6 +442,16 @@ xnormal
 xi386
 lSLF07#2@129"Link /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic330601583#330601583#0(0"0(0#0#0"4300885448#1024"    cd /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator -F/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator -filelist /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic-Mimic.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic0#
 
+CLd /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic normal i386
+s332224006.877617
+e332224007.004069
+r1
+xLd
+x/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic
+xnormal
+xi386
+lSLF07#2@140"Link /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic332224006#332224007#0(0"0(0#0#0"4300885448#1079"    cd /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator -F/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator -filelist /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Objects-normal/i386/Memonic-Mimic.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Memonic-Mimic0#
+
 CProcessInfoPlistFile /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Info.plist Memonic_Mimic-Info.plist
 s330342167.602394
 e330342167.612816
@@ -269,6 +460,9 @@ xProcessInfoPlistFile
 x/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Info.plist
 xMemonic_Mimic-Info.plist
 lSLF07#2@32"Process Memonic_Mimic-Info.plist330342167#330342167#0(0"0(0#0#89"/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Memonic_Mimic-Info.plist4300885448#575"    cd /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Memonic_Mimic-Info.plist -genpkginfo /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app/Info.plist Memonic_Mimic-Info.plist
+r0
 
 CProcessPCH /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-bvgddfcfmitviyesfibgopdyqdbe/Memonic_Mimic_Prefix.pch.gch Memonic_Mimic_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s330342168.378904
@@ -283,6 +477,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@35"Precompile Memonic_Mimic_Prefix.pch330342168#330342169#0(0"0(0#0#89"/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Memonic_Mimic_Prefix.pch4300885448#2125"    cd /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-generated-files.hmap -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-own-target-headers.hmap -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-all-target-headers.hmap -iquote /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-project-headers.hmap -F/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/include -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources/i386 -I/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources -c /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/Memonic_Mimic_Prefix.pch -o /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-bvgddfcfmitviyesfibgopdyqdbe/Memonic_Mimic_Prefix.pch.gch0#
 
+CProcessPCH /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-dsbetfvoyonhiqgagskmwnvmslow/Memonic_Mimic_Prefix.pch.gch Memonic_Mimic_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332222168.746824
+e332222169.848097
+r1
+xProcessPCH
+x/var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-dsbetfvoyonhiqgagskmwnvmslow/Memonic_Mimic_Prefix.pch.gch
+xMemonic_Mimic_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Memonic_Mimic_Prefix.pch332222168#332222169#0(0"0(0#0#100"/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Memonic_Mimic_Prefix.pch7299542743924433920#2235"    cd /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-generated-files.hmap -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-own-target-headers.hmap -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-all-target-headers.hmap -iquote /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/Memonic-Mimic-project-headers.hmap -F/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/include -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources/i386 -I/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Memonic-Mimic.build/Debug-iphonesimulator/Memonic-Mimic.build/DerivedSources -c /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Memonic_Mimic_Prefix.pch -o /var/folders/eN/eNsWBlq+EJa9iBesmDM6Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Memonic_Mimic_Prefix-dsbetfvoyonhiqgagskmwnvmslow/Memonic_Mimic_Prefix.pch.gch0#
+
 CTouch /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app
 s330601583.911642
 e330601583.914270
@@ -290,4 +497,12 @@ r1
 xTouch
 x/Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app
 lSLF07#2@116"Touch /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app330601583#330601583#0(0"0(0#0#0"4300885448#336"    cd /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ganesathandavamponnuraj/Documents/workspace/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app0#
+
+CTouch /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app
+s332224007.097782
+e332224007.100540
+r1
+xTouch
+x/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app
+lSLF07#2@127"Touch /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app332224007#332224007#0(0"0(0#0#0"4300885448#358"    cd /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/build/Debug-iphonesimulator/Memonic-Mimic.app0#
 
