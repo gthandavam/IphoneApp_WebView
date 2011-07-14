@@ -17,6 +17,7 @@
 	if (!model) {
 		model = [[FacebookModel alloc] init];
 		/*Does github get this */
+		//ofcourse it does
 	}
 	
 	return model;
@@ -31,7 +32,7 @@
 	[gtWebView loadRequest: req];
 	
 	
-	/*NSString * action = [[sender titleLabel] text];
+	NSString * action = [[sender titleLabel] text];
 	if ( [@"->" isEqual: action]) {
 		[gtWebView goForward];
 	} else if ([@"<-" isEqual: action]) {
@@ -41,7 +42,7 @@
 	} else if ([@"Refresh" isEqual: action]) {
 		[gtWebView reload];
 	}
-	 */
+	 
 
 }
 
