@@ -13,7 +13,7 @@
 
 @interface Memonic_MimicViewController : UIViewController {
 	FacebookModel * model;
-	IBOutlet UIWebView * gtWebView;
+	IBOutlet  UIWebView * gtWebView;
 }
 
 
