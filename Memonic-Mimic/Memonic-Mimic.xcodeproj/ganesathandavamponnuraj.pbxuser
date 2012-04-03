@@ -2,16 +2,16 @@
 {
 	1D3623240D0F684500981E51 /* Memonic_MimicAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {593, 645}}";
+			sepNavIntBoundsRect = "{{0, 0}, {633, 645}}";
 			sepNavSelRange = "{365, 0}";
 			sepNavVisRange = "{0, 514}";
 		};
 	};
 	1D3623250D0F684500981E51 /* Memonic_MimicAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {554, 645}}";
-			sepNavSelRange = "{531, 0}";
-			sepNavVisRange = "{0, 636}";
+			sepNavIntBoundsRect = "{{0, 0}, {817, 390}}";
+			sepNavSelRange = "{465, 0}";
+			sepNavVisRange = "{0, 564}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* Memonic-Mimic */ = {
@@ -22,7 +22,7 @@
 	};
 	28D7ACF60DDB3853001CB0EB /* Memonic_MimicViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {554, 645}}";
+			sepNavIntBoundsRect = "{{0, 0}, {633, 645}}";
 			sepNavSelRange = "{307, 0}";
 			sepNavVisRange = "{0, 397}";
 			sepNavWindowFrame = "{{51, 0}, {914, 773}}";
@@ -79,7 +79,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_ObjectSize_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					352,
+					431,
 					20,
 					48,
 					43,
@@ -126,18 +126,14 @@
 			PBXWorkspaceStateSaveDate = 333740999;
 		};
 		perUserProjectItems = {
-			A8007AAF13CF586400ECB578 = A8007AAF13CF586400ECB578 /* PBXTextBookmark */;
-			A8007ACD13CF655200ECB578 = A8007ACD13CF655200ECB578 /* PBXTextBookmark */;
-			A8007ACE13CF655200ECB578 = A8007ACE13CF655200ECB578 /* PBXTextBookmark */;
-			A8007ACF13CF655200ECB578 = A8007ACF13CF655200ECB578 /* PBXTextBookmark */;
-			A8007AD013CF655200ECB578 = A8007AD013CF655200ECB578 /* PBXTextBookmark */;
-			A8007AD113CF655200ECB578 = A8007AD113CF655200ECB578 /* PBXTextBookmark */;
-			A8007AD213CF655200ECB578 = A8007AD213CF655200ECB578 /* PBXTextBookmark */;
-			A865CF9813B0B4C700C59223 = A865CF9813B0B4C700C59223 /* PBXTextBookmark */;
-			A8F7943013E47BD400516681 /* PBXTextBookmark */ = A8F7943013E47BD400516681 /* PBXTextBookmark */;
+			A8007AAF13CF586400ECB578 /* PBXTextBookmark */ = A8007AAF13CF586400ECB578 /* PBXTextBookmark */;
+			A8007ACD13CF655200ECB578 /* PBXTextBookmark */ = A8007ACD13CF655200ECB578 /* PBXTextBookmark */;
+			A865CF9813B0B4C700C59223 /* PBXTextBookmark */ = A865CF9813B0B4C700C59223 /* PBXTextBookmark */;
 			A8F7943813E47CCC00516681 /* PBXTextBookmark */ = A8F7943813E47CCC00516681 /* PBXTextBookmark */;
-			A8F7943913E47CCC00516681 /* PBXTextBookmark */ = A8F7943913E47CCC00516681 /* PBXTextBookmark */;
-			A8F7943A13E47CCC00516681 /* PBXTextBookmark */ = A8F7943A13E47CCC00516681 /* PBXTextBookmark */;
+			A8F7944B13E4AFAA00516681 /* PBXTextBookmark */ = A8F7944B13E4AFAA00516681 /* PBXTextBookmark */;
+			A8F7944C13E4AFAA00516681 /* PBXTextBookmark */ = A8F7944C13E4AFAA00516681 /* PBXTextBookmark */;
+			A8F7944D13E4AFAA00516681 /* PBXTextBookmark */ = A8F7944D13E4AFAA00516681 /* PBXTextBookmark */;
+			A8F7944E13E4AFAA00516681 /* PBXTextBookmark */ = A8F7944E13E4AFAA00516681 /* PBXTextBookmark */;
 		};
 		sourceControlManager = A865CF1D13AF9E1600C59223 /* Source Control */;
 		userBuildSettings = {
@@ -168,56 +164,6 @@
 		rLoc = 240;
 		rType = 0;
 		vrLen = 246;
-		vrLoc = 0;
-	};
-	A8007ACE13CF655200ECB578 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* Memonic_MimicAppDelegate.m */;
-		name = "Memonic_MimicAppDelegate.m: 21";
-		rLen = 0;
-		rLoc = 531;
-		rType = 0;
-		vrLen = 636;
-		vrLoc = 0;
-	};
-	A8007ACF13CF655200ECB578 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* Memonic_MimicAppDelegate.h */;
-		name = "Memonic_MimicAppDelegate.h: 17";
-		rLen = 0;
-		rLoc = 365;
-		rType = 0;
-		vrLen = 514;
-		vrLoc = 0;
-	};
-	A8007AD013CF655200ECB578 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* Memonic_MimicViewController.m */;
-		name = "Memonic_MimicViewController.m: 32";
-		rLen = 0;
-		rLoc = 603;
-		rType = 0;
-		vrLen = 934;
-		vrLoc = 0;
-	};
-	A8007AD113CF655200ECB578 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF60DDB3853001CB0EB /* Memonic_MimicViewController.h */;
-		name = "Memonic_MimicViewController.h: 16";
-		rLen = 0;
-		rLoc = 330;
-		rType = 0;
-		vrLen = 396;
-		vrLoc = 0;
-	};
-	A8007AD213CF655200ECB578 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF60DDB3853001CB0EB /* Memonic_MimicViewController.h */;
-		name = "Memonic_MimicViewController.h: 16";
-		rLen = 0;
-		rLoc = 307;
-		rType = 0;
-		vrLen = 396;
 		vrLoc = 0;
 	};
 	A865CF1213AF9DFA00C59223 /* Memonic-Mimic */ = {
@@ -290,16 +236,6 @@
 		vrLen = 195;
 		vrLoc = 0;
 	};
-	A8F7943013E47BD400516681 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF60DDB3853001CB0EB /* Memonic_MimicViewController.h */;
-		name = "Memonic_MimicViewController.h: 16";
-		rLen = 0;
-		rLoc = 307;
-		rType = 0;
-		vrLen = 397;
-		vrLoc = 0;
-	};
 	A8F7943813E47CCC00516681 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF60DDB3853001CB0EB /* Memonic_MimicViewController.h */;
@@ -310,24 +246,44 @@
 		vrLen = 397;
 		vrLoc = 0;
 	};
-	A8F7943913E47CCC00516681 /* PBXTextBookmark */ = {
+	A8F7944B13E4AFAA00516681 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* Memonic_MimicViewController.m */;
-		name = "Memonic_MimicViewController.m: 32";
+		name = "Memonic_MimicViewController.m: 15";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 264;
 		rType = 0;
 		vrLen = 934;
 		vrLoc = 0;
 	};
-	A8F7943A13E47CCC00516681 /* PBXTextBookmark */ = {
+	A8F7944C13E4AFAA00516681 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* Memonic_MimicViewController.m */;
-		name = "Memonic_MimicViewController.m: 12";
+		fRef = 1D3623250D0F684500981E51 /* Memonic_MimicAppDelegate.m */;
+		name = "Memonic_MimicAppDelegate.m: 20";
 		rLen = 0;
-		rLoc = 245;
+		rLoc = 507;
 		rType = 0;
-		vrLen = 934;
+		vrLen = 646;
+		vrLoc = 0;
+	};
+	A8F7944D13E4AFAA00516681 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Memonic_MimicAppDelegate.h */;
+		name = "Memonic_MimicAppDelegate.h: 17";
+		rLen = 0;
+		rLoc = 365;
+		rType = 0;
+		vrLen = 514;
+		vrLoc = 0;
+	};
+	A8F7944E13E4AFAA00516681 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Memonic_MimicViewController.h */;
+		name = "Memonic_MimicViewController.h: 16";
+		rLen = 0;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 397;
 		vrLoc = 0;
 	};
 }

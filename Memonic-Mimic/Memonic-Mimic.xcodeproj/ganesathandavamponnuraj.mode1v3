@@ -229,6 +229,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -252,7 +254,7 @@
 						<dict>
 							<key>PBXSmartGroupTreeModuleColumnWidthsKey</key>
 							<array>
-								<real>353</real>
+								<real>274</real>
 							</array>
 							<key>PBXSmartGroupTreeModuleColumnsKey_v4</key>
 							<array>
@@ -270,13 +272,13 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>5</integer>
+									<integer>4</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {353, 664}}</string>
+							<string>{{0, 0}, {274, 664}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -288,11 +290,11 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {370, 682}}</string>
+						<string>{{0, 0}, {291, 682}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
-							<real>353</real>
+							<real>274</real>
 						</array>
 						<key>RubberWindowFrame</key>
 						<string>285 55 990 723 0 0 1280 778 </string>
@@ -300,20 +302,18 @@
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
 					<key>Proportion</key>
-					<string>370pt</string>
+					<string>291pt</string>
 				</dict>
 				<dict>
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Memonic_MimicViewController.m</string>
+								<string>Memonic_MimicViewController.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -321,20 +321,20 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Memonic_MimicViewController.m</string>
+										<string>Memonic_MimicViewController.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A8F7943A13E47CCC00516681</string>
+										<string>A8F7944E13E4AFAA00516681</string>
 										<key>history</key>
 										<array>
 											<string>A865CF9813B0B4C700C59223</string>
 											<string>A8007AAF13CF586400ECB578</string>
 											<string>A8007ACD13CF655200ECB578</string>
-											<string>A8007ACE13CF655200ECB578</string>
-											<string>A8007ACF13CF655200ECB578</string>
+											<string>A8F7944B13E4AFAA00516681</string>
+											<string>A8F7944C13E4AFAA00516681</string>
+											<string>A8F7944D13E4AFAA00516681</string>
 											<string>A8F7943813E47CCC00516681</string>
-											<string>A8F7943913E47CCC00516681</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -346,7 +346,7 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {615, 677}}</string>
+								<string>{{0, 0}, {694, 677}}</string>
 								<key>RubberWindowFrame</key>
 								<string>285 55 990 723 0 0 1280 778 </string>
 							</dict>
@@ -366,7 +366,7 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 682}, {615, 0}}</string>
+								<string>{{0, 682}, {694, 0}}</string>
 								<key>RubberWindowFrame</key>
 								<string>285 55 990 723 0 0 1280 778 </string>
 							</dict>
@@ -377,7 +377,7 @@
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>615pt</string>
+					<string>694pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -532,8 +532,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>A865CF1B13AF9E1600C59223</string>
+		<string>1C78EAAD065D492600B07095</string>
+		<string>1CD10A99069EF8BA00B06720</string>
 		<string>/Users/ganesathandavamponnuraj/github/local/Memonic_IphoneApp/Memonic-Mimic/Memonic-Mimic.xcodeproj</string>
+		<string>A865CF1B13AF9E1600C59223</string>
 	</array>
 	<key>WindowString</key>
 	<string>285 55 990 723 0 0 1280 778 </string>
@@ -557,7 +559,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string></string>
+								<string>Memonic_MimicAppDelegate.m</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -574,6 +576,8 @@
 							<string>357pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -626,7 +630,7 @@
 			<key>WindowToolGUID</key>
 			<string>A865CF1B13AF9E1600C59223</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
@@ -735,13 +739,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>A8007AA013CD560700ECB578</string>
+				<string>A8F7944F13E4AFAA00516681</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>A8007AA113CD560700ECB578</string>
-				<string>A8007AA213CD560700ECB578</string>
-				<string>A8007AA313CD560700ECB578</string>
-				<string>A8007AA413CD560700ECB578</string>
-				<string>A8007AA513CD560700ECB578</string>
+				<string>A8F7945013E4AFAA00516681</string>
+				<string>A8F7945113E4AFAA00516681</string>
+				<string>A8F7945213E4AFAA00516681</string>
+				<string>A8F7945313E4AFAA00516681</string>
+				<string>A8F7945413E4AFAA00516681</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -903,7 +907,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>A8007AA613CD560700ECB578</string>
+				<string>A8F7945513E4AFAA00516681</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>
